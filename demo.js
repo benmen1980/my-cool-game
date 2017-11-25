@@ -61,7 +61,7 @@ function find_common_divider(k,l){
     }
     return m;
 }
-console.log(find_common_divider(1112,112));
+console.log(find_common_divider(9,6));
 
 /***********************************************************************/
 function get_the_smalleset_multiplyer(k,l){
@@ -75,4 +75,4 @@ function get_the_smalleset_multiplyer(k,l){
     console.log("Two numbers are: " + bignumber + "," + smallnumber + " Smalleset multiplyer is " + bignumber * i);
 
 }
-get_the_smalleset_multiplyer(33,6);
+get_the_smalleset_multiplyer(9,6);
